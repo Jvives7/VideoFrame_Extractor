@@ -1,4 +1,4 @@
- First python code that grabs a screen capture from videos in testVideos(user has to include this folder into project
+# First python code that grabs a screen capture from videos in testVideos(user has to include this folder into project
 # folder
 # Used Idiot Developer's Youtube video as a guide. https://www.youtube.com/watch?v=SWGd2hX5p3U
 
