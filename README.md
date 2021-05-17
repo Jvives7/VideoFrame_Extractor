@@ -1,7 +1,7 @@
- VideoFrame_Extractor
+ 
 Extracts frames from video
 
-1.Clone repository
+1. Clone repository
 
 2. Put video you want to extract frames from into testVideos3.
  
